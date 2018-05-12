@@ -1,0 +1,32 @@
+_repo: Opera-nova-amorosa-vol.-1Strambotti-sonetti-capitoli-epistole-et-una-disperata_30738
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Notturno, Napolitano
+    aliases:
+    - Nocturno, Neapolitano
+    - Napolitano, Notturno
+    - Notturno, Napoletano
+    - Nocturno, Napolitano
+    gutenberg_agent_id: '34785'
+    url: http://www.gutenberg.org/2009/agents/34785
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2009-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30738'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian poetry -- 16th century'
+title: 'Opera nova amorosa, vol. 1
+
+  Strambotti, sonetti, capitoli, epistole et una disperata'
+url: http://www.gutenberg.org/ebooks/30738
